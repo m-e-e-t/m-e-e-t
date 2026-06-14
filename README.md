@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on passing Comptia Security +<br>👯 I’m looking to collaborate on all and any python or cybersec projects<br>🤝 I’m looking for help with UI designing<br>🌱 I’m currently learning scripting<br>💬 Ask me about how to secure yourself on the internet
+🔭 I’m Comptia Security + Certified<br>👯 I’m looking to collaborate on all and any python or cybersec projects<br>🤝 I’m looking for help with UI designing<br>🌱 I’m currently learning scripting<br>💬 Ask me about how to secure yourself on the internet
 
 
 ## 🌐 Socials:
